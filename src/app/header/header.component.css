@@ -1,0 +1,30 @@
+header {
+  background-color: #5b5f63;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  color: white;
+}
+
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #007bff;
+}
